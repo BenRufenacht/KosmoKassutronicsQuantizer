@@ -2,7 +2,7 @@
  Kassutronics Quantizer in Kosmo Format
  
 <p align="center">
-  <img src="QuantizerPanelGraphics.png" width="100" title="QuantizerPanelGraphics">
+  <img src="QuantizerPanelGraphics.png" width="200" title="QuantizerPanelGraphics">
 </p>
 
 [Build Docs from Kassutronics](https://github.com/kassu/kassutronics/blob/master/documentation/Quantizer/Quantizer_Build_Docs_1.1A.pdf)
