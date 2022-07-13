@@ -1,0 +1,88 @@
+
+(rules PCB QuantizerBack
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 3064)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.8)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.6)
+    )
+  )
+  (rule
+    (width 250.0)
+    (clear 200.2)
+    (clear 125.0 (type smd_to_turn_gap))
+    (clear 50.0 (type smd_smd))
+  )
+  (padstack "Via[0-1]_800:400_um"
+    (shape
+      (circle F.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 800.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_800:400_um" "Via[0-1]_800:400_um" default
+  )
+  (via 
+    "Via[0-1]_800:400_um-kicad_default" "Via[0-1]_800:400_um" "kicad_default"
+  )
+  (via_rule
+    default "Via[0-1]_800:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_800:400_um-kicad_default"
+  )
+  (class default
+    GND +5VD /RESET "Net-(C3-Pad1)" "+5V_1" "+12V_1" "-12V_1" "Net-(C12-Pad2)"
+    "Net-(C13-Pad2)" "Net-(C14-Pad2)" "Net-(C15-Pad2)" "Net-(C18-Pad2)" "Net-(C19-Pad2)" "Net-(C20-Pad2)" "Net-(C21-Pad2)" "Net-(C4-Pad1)"
+    "Net-(C5-Pad2)" "Net-(C26-Pad2)" "Net-(C27-Pad2)" "Net-(C28-Pad2)" "Net-(C29-Pad2)" "Net-(C32-Pad2)" "Net-(C33-Pad2)" "Net-(C34-Pad2)"
+    "Net-(C35-Pad2)" "Net-(C36-Pad1)" "Net-(C36-Pad2)" "Net-(C37-Pad1)" "Net-(C37-Pad2)" "Net-(C38-Pad2)" "Net-(D4-Pad1)" "Net-(D5-Pad1)"
+    /MISO /SCK /MOSI /RX /TX /TRIGA /GATEA /INA
+    /OUTA /CVA /CVB /OUTB /INB /GATEB /TRIGB "Net-(D1-Pad2)"
+    /DINA /DINB "Net-(R1-Pad1)" /SCL "Net-(R2-Pad1)" /SDI "Net-(R3-Pad1)" /SLI
+    "Net-(R4-Pad1)" /SDO "Net-(R5-Pad1)" /SLO "Net-(D3-Pad2)" /12V "unconnected-(J6-PadTN)" "unconnected-(J7-PadTN)"
+    "unconnected-(J8-PadTN)" /12VJ "unconnected-(J10-PadTN)" "unconnected-(J11-PadTN)" "unconnected-(J12-PadTN)" "unconnected-(J13-PadTN)" "unconnected-(J14-PadTN)" "Net-(R53-Pad1)"
+    /ADC0 "Net-(R54-Pad1)" /ADC2 "Net-(R55-Pad1)" /ADC3 "Net-(R56-Pad1)" /ADC1 /OC1A
+    /OC1B "Net-(R67-Pad1)" "Net-(R67-Pad2)" "Net-(R68-Pad1)" "Net-(R68-Pad2)" "Net-(R69-Pad2)" "Net-(R70-Pad2)" "Net-(R73-Pad2)"
+    "Net-(R74-Pad2)" "Net-(R77-Pad2)" "Net-(R78-Pad2)" "Net-(R85-Pad2)" "unconnected-(U1-Pad21)" /DOUTA /DOUTB "unconnected-(U10-Pad2)"
+    "unconnected-(U10-Pad3)" "unconnected-(U10-Pad5)" "unconnected-(U10-Pad6)"
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)
