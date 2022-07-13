@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="QuantizerPanelGraphics.svg"
-   inkscape:export-filename="TuringPanelGraphics.png"
+   inkscape:export-filename="QuantizerPanelGraphics.png"
    inkscape:export-xdpi="304.79999"
    inkscape:export-ydpi="304.79999"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,9 +27,9 @@
      inkscape:document-units="mm"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="1"
-     inkscape:cx="160"
-     inkscape:cy="390"
+     inkscape:zoom="0.9983453"
+     inkscape:cx="60.099446"
+     inkscape:cy="372.61657"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -37,27 +37,28 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:lockguides="true">
     <sodipodi:guide
        position="0,200"
        orientation="0,377.95276"
        id="guide824"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="99.999999,200"
        orientation="755.90551,0"
        id="guide826"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="99.999999,0"
        orientation="0,-377.95276"
        id="guide828"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="0,0"
        orientation="-755.90551,0"
        id="guide830"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <inkscape:grid
        type="xygrid"
        id="grid832"
@@ -71,117 +72,117 @@
        position="0,175"
        orientation="0,-1"
        id="guide454"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="12.5,237.5"
        orientation="1,0"
        id="guide456"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="87.499999,225"
        orientation="1,0"
        id="guide458"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
-       position="50,25"
+       position="-9.9999999,25"
        orientation="0,-1"
        id="guide460"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="50,50"
        orientation="0,-1"
        id="guide462"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="37.5,175"
        orientation="1,0"
        id="guide464"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="62.5,74.999999"
        orientation="1,0"
        id="guide466"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="0,137.5"
        orientation="0,-1"
        id="guide5561"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="-62.5,12.5"
        orientation="0,-1"
        id="guide540"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="-12.5,37.5"
-       orientation="0,-1"
+       orientation="0,1"
        id="guide1017"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="-25,190"
        orientation="0,-1"
        id="guide4177"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="-142.5,74.999999"
        orientation="0,-1"
        id="guide643"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="-125,62.5"
        orientation="0,-1"
        id="guide645"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="-32.5,99.999999"
        orientation="0,-1"
        id="guide904"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="-20,150"
        orientation="0,-1"
        id="guide906"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="50,167.5"
        orientation="1,0"
        id="guide908"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="-50,180"
        orientation="0,-1"
        id="guide1016"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="40,155"
        orientation="1,0"
        id="guide1068"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="60,107.5"
        orientation="1,0"
        id="guide1070"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="20,115"
        orientation="1,0"
        id="guide1072"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="79.999999,110"
        orientation="1,0"
        id="guide1074"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="-32.5,110"
        orientation="0,-1"
        id="guide677"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
     <sodipodi:guide
        position="-72.499999,89.999999"
        orientation="0,-1"
        id="guide679"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -557,99 +558,101 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3812);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="141.73242"
          y="83.737353"
-         id="tspan1221"><tspan
+         id="tspan2303"><tspan
            dx="0 15.761719 29.277344 27.8125 16.835938 29.921875 31.015625 14.0625 38.90625 27.34375 27.929688 30.058594 16.835938 29.921875"
-           id="tspan1219">tURING mACHINE</tspan></tspan></text>
+           id="tspan2301">tURING mACHINE</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-5.6026371,15.870718)"
+       transform="matrix(0.26458333,0,0,0.26458333,0.58853156,15.602602)"
        id="text4171"
        style="font-size:42.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:Myfont;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4173);display:inline;fill:#ffffff"><tspan
          x="113.38672"
-         y="-12.293359"
-         id="tspan1225"><tspan
-           style="font-size:48px;-inkscape-font-specification:'Myfont, Normal'"
-           id="tspan1223">Quantizer</tspan></tspan></text>
+         y="-17.226663"
+         id="tspan2307"><tspan
+           style="font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, @wght=400';font-variation-settings:'wght' 400"
+           id="tspan2305">Quantizer</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-39.080542,29.018288)"
        id="text4179"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181);display:inline;fill:#ffffff"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181);display:inline;fill:#ffffff"><tspan
          x="377.95312"
-         y="421.51631"
-         id="tspan1227">B</tspan></text>
+         y="419.41211"
+         id="tspan2309">B</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-89.599127,28.817204)"
        id="text4179-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4);display:inline;fill:#ffffff"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4);display:inline;fill:#ffffff"><tspan
          x="377.95312"
-         y="421.51631"
-         id="tspan1229">A</tspan></text>
+         y="419.41211"
+         id="tspan2311">A</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-18.987689,53.894815)"
+       transform="matrix(0.26458333,0,0,0.26458333,-17.592801,54.31192)"
        id="text4179-9-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-9);display:inline;fill:#ffffff"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-9);display:inline;fill:#ffffff"><tspan
          x="377.95312"
-         y="421.51631"
-         id="tspan1231">Gate</tspan></text>
+         y="417.15584"
+         id="tspan2313">Gate</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-43.977104,52.864703)"
+       transform="matrix(0.26458333,0,0,0.26458333,-41.618068,53.85472)"
        id="text4179-9-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-7);display:inline;fill:#ffffff"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-7);display:inline;fill:#ffffff"><tspan
          x="377.95312"
-         y="421.51631"
-         id="tspan1233">Trig</tspan></text>
+         y="417.15584"
+         id="tspan2315">Trig</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-68.987688,53.894815)"
+       transform="matrix(0.26458333,0,0,0.26458333,-67.592801,54.31192)"
        id="text4179-9-3-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-9-6);display:inline;fill:#ffffff"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-9-6);display:inline;fill:#ffffff"><tspan
          x="377.95312"
-         y="421.51631"
-         id="tspan1235">Gate</tspan></text>
+         y="417.15584"
+         id="tspan2317">Gate</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-93.977104,52.864703)"
+       transform="matrix(0.26458333,0,0,0.26458333,-91.618068,52.701012)"
        id="text4179-9-1-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-7-4);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan1237">Trig</tspan></text>
+         id="tspan2321"><tspan
+           style="font-size:24px;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, Normal '"
+           id="tspan2319">Trig</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-90.925574,78.853188)"
+       transform="matrix(0.26458333,0,0,0.26458333,-89.678144,79.31192)"
        id="text4179-9-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-2);display:inline;fill:#ffffff"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-2);display:inline;fill:#ffffff"><tspan
          x="377.95312"
-         y="421.51631"
-         id="tspan1239">In</tspan></text>
+         y="417.15584"
+         id="tspan2323">In</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-67.350794,78.82426)"
+       transform="matrix(0.26458333,0,0,0.26458333,-66.554567,79.31192)"
        id="text4179-9-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-92);display:inline;fill:#ffffff"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-92);display:inline;fill:#ffffff"><tspan
          x="377.95312"
-         y="421.51631"
-         id="tspan1241">Out</tspan></text>
+         y="417.15584"
+         id="tspan2325">Out</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-40.925574,78.853188)"
+       transform="matrix(0.26458333,0,0,0.26458333,-39.678144,79.31192)"
        id="text4179-9-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-94);display:inline;fill:#ffffff"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-94);display:inline;fill:#ffffff"><tspan
          x="377.95312"
-         y="421.51631"
-         id="tspan1243">In</tspan></text>
+         y="417.15584"
+         id="tspan2327">In</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-17.350789,78.824256)"
+       transform="matrix(0.26458333,0,0,0.26458333,-16.554568,79.31192)"
        id="text4179-9-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-1);display:inline;fill:#ffffff"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-1);display:inline;fill:#ffffff"><tspan
          x="377.95312"
-         y="421.51631"
-         id="tspan1245">Out</tspan></text>
+         y="417.15584"
+         id="tspan2329">Out</tspan></text>
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
        id="circle625-6"
@@ -692,100 +695,6 @@
        cy="125"
        r="7.5"
        sodipodi:insensitive="true" />
-    <g
-       id="g1978"
-       transform="translate(4.196167e-6,0.14331245)">
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
-         id="path123"
-         cx="-18.301273"
-         cy="-38.44458"
-         r="5"
-         transform="rotate(150.00001)" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
-         id="circle619"
-         cx="-43.748222"
-         cy="31.493584"
-         r="5"
-         transform="rotate(-122.3077)" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
-         id="circle621"
-         cx="39.719986"
-         cy="56.753086"
-         r="5"
-         transform="rotate(-34.615389)" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
-         id="circle623"
-         cx="73.60807"
-         cy="-39.574051"
-         r="5"
-         transform="rotate(53.076945)" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
-         id="circle625"
-         cx="-30.235115"
-         cy="-89.235237"
-         r="5"
-         transform="rotate(140.76923)" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
-         id="circle627"
-         cx="-98.901817"
-         cy="13.724067"
-         r="5"
-         transform="rotate(-131.53846)" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
-         id="circle629"
-         cx="-5.7212481"
-         cy="99.685448"
-         r="5"
-         transform="rotate(-43.846139)" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
-         id="circle633"
-         cx="91.580376"
-         cy="-22.138773"
-         r="5"
-         transform="rotate(71.53847)" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
-         id="circle635"
-         cx="-5.8934636"
-         cy="-83.363777"
-         r="5"
-         transform="rotate(159.23079)" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
-         id="circle637"
-         cx="-69.196129"
-         cy="-3.2383616"
-         r="5"
-         transform="rotate(-113.07692)" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
-         id="circle639"
-         cx="-3.2361424"
-         cy="53.807804"
-         r="5"
-         transform="rotate(-25.384611)" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
-         id="circle641"
-         cx="42.27438"
-         cy="-5.0792708"
-         r="5"
-         transform="rotate(62.307708)" />
-      <circle
-         style="fill:none;stroke:#ffffff;stroke-width:0.286624"
-         id="path962"
-         cx="49.999996"
-         cy="50"
-         r="29.856688" />
-    </g>
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
        id="circle1040"
@@ -992,6 +901,100 @@
       </g>
     </g>
     <g
+       id="g1677"
+       transform="translate(89.543451,-77.968504)">
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+         id="path962"
+         cx="-39.543449"
+         cy="128.11182"
+         r="29.856688" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+         id="path123"
+         cx="98.301529"
+         cy="-61.319698"
+         r="5"
+         transform="rotate(150.00001)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+         id="circle619"
+         cx="-61.90963"
+         cy="-85.935753"
+         r="5"
+         transform="rotate(-122.3077)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+         id="circle621"
+         cx="-78.345398"
+         cy="70.171371"
+         r="5"
+         transform="rotate(-34.615389)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+         id="circle623"
+         cx="82.261513"
+         cy="78.935875"
+         r="5"
+         transform="rotate(53.076945)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45;stroke-dasharray:none"
+         id="circle625"
+         cx="88.527145"
+         cy="-93.109703"
+         r="5"
+         transform="rotate(140.76923)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+         id="circle627"
+         cx="-97.991066"
+         cy="-105.09789"
+         r="5"
+         transform="rotate(-131.53846)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+         id="circle629"
+         cx="-124.41016"
+         cy="93.99099"
+         r="5"
+         transform="rotate(-43.846139)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+         id="circle633"
+         cx="137.31676"
+         cy="87.531952"
+         r="5"
+         transform="rotate(71.53847)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+         id="circle635"
+         cx="105.52993"
+         cy="-124.64709"
+         r="5"
+         transform="rotate(159.23079)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+         id="circle637"
+         cx="-105.95937"
+         cy="-116.23371"
+         r="5"
+         transform="rotate(-113.07692)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+         id="circle639"
+         cx="-117.62016"
+         cy="85.991364"
+         r="5"
+         transform="rotate(-25.384611)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+         id="circle641"
+         cx="69.82608"
+         cy="110.50788"
+         r="5"
+         transform="rotate(62.307708)" />
+    </g>
+    <g
        id="g3771"
        transform="matrix(1.4173418,0,0,1.4173418,197.04072,-13.95538)">
       <path
@@ -1079,11 +1082,11 @@
        transform="matrix(0.50000667,0,0,-0.50000667,8.4136364,178.22183)"
        style="fill:#ffffff" />
     <g
-       id="g4516"
-       transform="matrix(1.4679879,0,0,1.4679879,151.83494,-6.046465)">
+       id="g997"
+       transform="translate(76.291805,51.111224)">
       <g
          id="g2635"
-         transform="matrix(0.35277777,0,0,-0.35277777,-67.714367,53.167336)"
+         transform="matrix(0.5178735,0,0,-0.5178735,-23.949114,20.827973)"
          style="fill:#ffffff">
         <path
            d="M 0,0 H -2.603 V 3.738 H -2.89 V 0 H -6.046 V 3.738 H -6.333 V 0 H -8.9 v 9.114 h 1.877 V 3.738 h 1.667 v 5.376 h 1.777 V 3.738 h 1.666 V 9.114 H 0 Z m -9.188,-0.282 h 9.475 v 9.679 h -9.475 z"
@@ -1092,7 +1095,7 @@
       </g>
       <g
          id="g2639"
-         transform="matrix(0.35277777,0,0,-0.35277777,-94.545974,132.13477)"
+         transform="matrix(0.5178735,0,0,-0.5178735,-63.337589,136.75121)"
          style="fill:#ffffff">
         <g
            id="g2641"
@@ -1111,7 +1114,7 @@
       </g>
       <g
          id="g2817"
-         transform="matrix(0.35277777,0,0,-0.35277777,-94.545974,132.13477)"
+         transform="matrix(0.5178735,0,0,-0.5178735,-63.337589,136.75121)"
          style="fill:#ffffff">
         <g
            id="g2819"
@@ -1139,7 +1142,7 @@
       </g>
       <g
          id="g2833"
-         transform="matrix(0.35277777,0,0,-0.35277777,-94.545974,132.13477)"
+         transform="matrix(0.5178735,0,0,-0.5178735,-63.337589,136.75121)"
          style="fill:#ffffff">
         <g
            id="g2835"
@@ -1176,7 +1179,7 @@
       </g>
       <g
          id="g2853"
-         transform="matrix(0.35277777,0,0,-0.35277777,-94.545974,132.13477)"
+         transform="matrix(0.5178735,0,0,-0.5178735,-63.337589,136.75121)"
          style="fill:#ffffff">
         <g
            id="g2855"
@@ -1204,7 +1207,7 @@
       </g>
       <g
          id="g2869"
-         transform="matrix(0.35277777,0,0,-0.35277777,-94.545974,132.13477)"
+         transform="matrix(0.5178735,0,0,-0.5178735,-63.337589,136.75121)"
          style="fill:#ffffff">
         <g
            id="g2871"
@@ -1240,7 +1243,7 @@
       </g>
       <g
          id="g2901"
-         transform="matrix(0.35277777,0,0,-0.35277777,-94.545974,132.13477)"
+         transform="matrix(0.5178735,0,0,-0.5178735,-63.337589,136.75121)"
          style="fill:#ffffff">
         <g
            id="g2903"
@@ -1267,7 +1270,7 @@
       </g>
       <g
          id="g2917"
-         transform="matrix(0.35277777,0,0,-0.35277777,-94.545974,132.13477)"
+         transform="matrix(0.5178735,0,0,-0.5178735,-63.337589,136.75121)"
          style="fill:#ffffff">
         <g
            id="g2919"
@@ -1303,7 +1306,7 @@
       </g>
       <g
          id="g2937"
-         transform="matrix(0.35277777,0,0,-0.35277777,-94.545974,132.13477)"
+         transform="matrix(0.5178735,0,0,-0.5178735,-63.337589,136.75121)"
          style="fill:#ffffff">
         <g
            id="g2939"
@@ -1322,7 +1325,7 @@
       </g>
       <g
          id="g2969"
-         transform="matrix(0.35277777,0,0,-0.35277777,-94.545974,132.13477)"
+         transform="matrix(0.5178735,0,0,-0.5178735,-63.337589,136.75121)"
          style="fill:#ffffff">
         <g
            id="g2971"
@@ -1342,17 +1345,17 @@
       <text
          xml:space="preserve"
          transform="scale(1.0022851,0.99772012)"
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.84388px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;white-space:pre;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.351973"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.83395px;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;white-space:pre;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.516692"
          id="text2983"
-         x="-81.700447"
-         y="32.326889"><tspan
-           x="-81.700447"
-           y="32.326889"
+         x="-44.652538"
+         y="-9.6815128"><tspan
+           x="-44.652538"
+           y="-9.6815128"
            id="tspan2981"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.84388px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.351973">A</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.83395px;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.516692">A</tspan></text>
       <g
          id="g2985"
-         transform="matrix(0.35277777,0,0,-0.35277777,-94.545974,132.13477)"
+         transform="matrix(0.5178735,0,0,-0.5178735,-63.337589,136.75121)"
          style="fill:#ffffff">
         <g
            id="g2987"
@@ -1371,18 +1374,18 @@
       </g>
       <text
          xml:space="preserve"
-         transform="scale(1.0022851,0.99772012)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.84388px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.351973"
+         transform="scale(1.0022851,0.99772011)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.83395px;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.516692"
          id="text2999"
-         x="-76.6661"
-         y="27.363066"><tspan
-           x="-76.6661"
-           y="27.363066"
+         x="-37.369087"
+         y="-16.968346"><tspan
+           x="-37.369087"
+           y="-16.968346"
            id="tspan2997"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.84388px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.351973">B</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.83395px;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.516692">B</tspan></text>
       <g
          id="g3001"
-         transform="matrix(0.35277777,0,0,-0.35277777,-94.545974,132.13477)"
+         transform="matrix(0.5178735,0,0,-0.5178735,-63.337589,136.75121)"
          style="fill:#ffffff">
         <g
            id="g3003"
@@ -1401,15 +1404,15 @@
       </g>
       <text
          xml:space="preserve"
-         transform="matrix(0.9422105,0.34176543,-0.34021262,0.93792957,0,0)"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.19097px;font-family:'Computer Modern';-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.351975"
+         transform="matrix(1.0021156,-0.01812435,0.01804202,0.99756255,0,0)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.83395px;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.516695"
          id="text3015"
-         x="-66.258354"
-         y="65.79866"><tspan
-           x="-66.258354"
-           y="65.79866"
+         x="-47.073978"
+         y="-0.60623115"><tspan
+           x="-47.073978"
+           y="-0.60623115"
            id="tspan3013"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.19097px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.351975">T</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.83395px;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.516695">T</tspan></text>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1417,20 +1420,20 @@
        id="path750" />
     <path
        style="fill:#ffffff;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 14.547226,92.783702 11.740529,0.138949 -0.09324,-5.198377 -11.67075,-0.06856 z"
+       d="m 15,92.5 h 10 v -5 H 15 Z"
        id="path815"
        sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81781px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.500007"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81781px;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.500007"
        id="text2967"
-       x="15.68891"
-       y="92.063637"><tspan
-         x="15.68891 18.064093 20.737974 21.86537 23.325153"
-         y="92.063637"
+       x="15.476069"
+       y="91.770546"><tspan
+         x="15.476069 17.851252 20.525133 21.652529 23.112312"
+         y="91.770546"
          sodipodi:role="line"
          id="tspan2965"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81781px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.500007">Shift</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81781px;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.500007">Shift</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 5.9284647,78.691107 c 0,0.09263 -0.0131,0.186195 0,0.277897 0.018005,0.126029 0.064005,0.246478 0.092632,0.370528 0.034819,0.150881 0.080817,0.414006 0.092632,0.555794 0.00641,0.07693 -0.00641,0.154654 0,0.231579 0.00907,0.108792 0.037943,0.215368 0.046316,0.324213 0.0071,0.09236 0,0.185266 0,0.277897 0,0.216143 0,0.432284 0,0.648427 0,0.185264 0,0.370528 0,0.555792 0,0.108072 0.0077,0.216419 0,0.324215 -0.027429,0.384006 -0.052136,0.272235 -0.1389486,0.648425 -0.021116,0.0915 -0.025199,0.186391 -0.046316,0.277897 -0.025273,0.109517 -0.075542,0.213125 -0.092632,0.324213 -0.014086,0.09155 0.00922,0.185724 0,0.277897 -0.00633,0.06334 -0.035851,0.122476 -0.046316,0.185264 -0.00508,0.03046 0,0.06175 0,0.09263 0,0.04632 0,0.09263 0,0.138949 0,0.04632 0,0.09263 0,0.138946 0,0.01545 -0.013809,0.03941 0,0.04632 0.027617,0.01381 0.062771,-0.0079 0.092632,0 0.2645672,0.06962 0.5219679,0.165229 0.7873743,0.231579 0.096164,0.02405 0.9900235,0.17545 1.065271,0.185266 0.1690936,0.02207 0.341127,0.01916 0.5094774,0.04632 0.3108714,0.05014 0.6149173,0.138554 0.9263227,0.185264 0.3068809,0.04603 0.6180851,0.05679 0.9263225,0.09263 0.355701,0.04136 0.708313,0.110392 1.065271,0.138948 0.415802,0.03326 0.83368,0.03116 1.250535,0.04632 0.432274,0.01572 0.864356,0.03886 1.296852,0.04632 0.771821,0.01331 1.543871,0 2.315806,0 0.24702,0 0.494039,0 0.741058,0 0.07719,0 0.154538,-0.0048 0.231581,0 0.477833,0.02987 0.79702,0.08897 1.296852,0.138949 0.617093,0.06171 0.585396,0.04631 1.204219,0.04631 0.04632,0 0.09263,0 0.138948,0 0.01544,0 0.05322,0.01381 0.04632,0 -0.01953,-0.03905 -0.06175,-0.06175 -0.09263,-0.09263 -0.123509,-0.324212 -0.278535,-0.638117 -0.370529,-0.97264 -0.145675,-0.52973 -0.172799,-1.316633 -0.185264,-1.852644 -0.0079,-0.339561 0.01578,-0.67967 0,-1.018955 -0.01513,-0.325329 -0.07048,-0.647714 -0.09263,-0.972638 -0.02418,-0.354602 -0.03152,-0.710155 -0.04632,-1.065271 -6.35e-4,-0.01542 0.01092,-0.0354 0,-0.04632 -0.01092,-0.01093 -0.03088,0 -0.04632,0 -0.06176,0 -0.123986,0.0076 -0.185264,0 -0.18637,-0.02331 -0.373261,-0.04838 -0.555794,-0.09263 -0.327694,-0.07944 -0.644087,-0.202078 -0.972639,-0.277897 -0.274515,-0.06335 -0.556391,-0.08918 -0.83369,-0.138949 -0.83644,-0.15013 -1.304963,-0.271825 -2.176858,-0.37053 C 13.757402,78.59777 13.338279,78.592055 12.9222,78.552158 12.211099,78.48397 11.501564,78.400261 10.791658,78.320576 9.9885623,78.230433 9.1865351,78.130849 8.3832196,78.042679 7.9205269,77.991898 7.4552293,77.964455 6.9937357,77.90373 6.8675127,77.887115 6.7494006,77.827925 6.6232065,77.8111 6.5160836,77.79681 6.4067901,77.8188 6.2989938,77.8111 6.190103,77.8033 6.0829914,77.77921 5.9747808,77.76478 5.5843238,77.71272 5.7190367,77.71847 5.4653034,77.71847 c -0.061755,0 -0.1235096,0 -0.1852644,0 -0.015439,0 -0.035399,-0.01093 -0.046316,0 -0.010917,0.01093 0,0.03088 0,0.04631"
