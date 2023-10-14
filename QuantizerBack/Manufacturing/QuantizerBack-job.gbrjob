@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.0.5)"
+      "Version": "7.0.8"
     },
-    "CreationDate": "2022-07-13T23:04:47-05:00"
+    "CreationDate": "2023-10-13T18:56:11-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "QuantizerBack-F_Cu.gbr",
+      "Path": "QuantizerBack-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "QuantizerBack-B_Cu.gbr",
+      "Path": "QuantizerBack-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "QuantizerBack-F_Paste.gbr",
+      "Path": "QuantizerBack-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "QuantizerBack-B_Paste.gbr",
+      "Path": "QuantizerBack-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "QuantizerBack-F_Silkscreen.gbr",
+      "Path": "QuantizerBack-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "QuantizerBack-B_Silkscreen.gbr",
+      "Path": "QuantizerBack-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "QuantizerBack-F_Mask.gbr",
+      "Path": "QuantizerBack-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "QuantizerBack-B_Mask.gbr",
+      "Path": "QuantizerBack-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "QuantizerBack-Edge_Cuts.gbr",
+      "Path": "QuantizerBack-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
