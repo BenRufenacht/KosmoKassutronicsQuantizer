@@ -8,7 +8,7 @@
 [Build Docs from Kassutronics](https://github.com/kassu/kassutronics/blob/master/documentation/Quantizer/Quantizer_Build_Docs_1.1A.pdf)
 
 Status:   
-Oct 2023 Updated Back PCB to fix potential shorting issue with the Trigger input jacks and fixed a connection error that prevented free running mode from working.
+Oct 2023 Updated Back PCB to fix potential shorting issue with the Trigger input jacks and fixed a connection error that prevented free running mode from working. These updates to the back pcb are untested.
 
 
 License:  
